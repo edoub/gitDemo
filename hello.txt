@@ -1,13 +1,3 @@
 hello world git! 
-this is hot-fix branch!
-hello world git!
-hello world git!
-hello world git!
-hello world git!
-hello world git!
-hello world git!
-hello world git!
-hello world git!
-hello world git!
-hello world git!hot-fix test!
+hello world git!--hot-fix
 hello world git!
